@@ -11,3 +11,14 @@ C:\Users\Usuario\source\repos\Reciclaje\Reciclaje\obj\Debug\Reciclaje.exe
 C:\Users\Usuario\source\repos\Reciclaje\Reciclaje\obj\Debug\Reciclaje.pdb
 C:\Users\Usuario\source\repos\Reciclaje\Reciclaje\bin\Debug\SwiPlCs.dll
 C:\Users\Usuario\source\repos\Reciclaje\Reciclaje\bin\Debug\SwiPlCs.xml
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\bin\Debug\Reciclaje.exe.config
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\bin\Debug\Reciclaje.exe
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\bin\Debug\Reciclaje.pdb
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\bin\Debug\SwiPlCs.xml
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\obj\Debug\Reciclaje.csprojAssemblyReference.cache
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\obj\Debug\Reciclaje.Form1.resources
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\obj\Debug\Reciclaje.Properties.Resources.resources
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\obj\Debug\Reciclaje.csproj.GenerateResource.cache
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\obj\Debug\Reciclaje.csproj.CopyComplete
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\obj\Debug\Reciclaje.exe
+C:\Users\osiel\Source\Repos\Reciclaje\Reciclaje\obj\Debug\Reciclaje.pdb

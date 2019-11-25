@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Yo reciclo logo.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="SwiPlCs">
       <HintPath>..\..\..\..\Desktop\Tecnológico\Prog. Lógica y Funcional\Reciclaje\Librerias\SwiPlCs.dll</HintPath>
@@ -72,6 +75,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -85,6 +89,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tecnologico_de_el_Mante.png" />
+    <None Include="Resources\Yo reciclo.png" />
+    <None Include="Resources\1706198.png" />
+    <None Include="Resources\cardboard-546867.jpg" />
+    <None Include="Resources\right.png" />
+    <None Include="Resources\left.png" />
+    <Content Include="Yo reciclo logo.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
