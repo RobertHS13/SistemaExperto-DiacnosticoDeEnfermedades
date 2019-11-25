@@ -308,7 +308,10 @@ namespace Reciclaje
             material = new Material("higiene.png", "Higiene", "higiene", i);
             listaMaterial.Add(material);
             i++;
-            
+
+            material = new Material("papel.png", "Papel", "papel", i);
+            listaMaterial.Add(material);
+            i++;
         }
 
         public void ReciclarResiduo()
