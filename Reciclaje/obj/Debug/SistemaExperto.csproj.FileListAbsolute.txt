@@ -1,0 +1,12 @@
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\obj\Debug\SistemaExperto.csprojAssemblyReference.cache
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\obj\Debug\Reciclaje.Form1.resources
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\obj\Debug\Reciclaje.Properties.Resources.resources
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\obj\Debug\SistemaExperto.csproj.GenerateResource.cache
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\obj\Debug\Reciclaje.exe
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\obj\Debug\Reciclaje.pdb
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\bin\Debug\Reciclaje.exe.config
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\bin\Debug\Reciclaje.exe
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\bin\Debug\Reciclaje.pdb
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\bin\Debug\SwiPlCs.xml
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\obj\Debug\SistemaExperto.csproj.CopyComplete
+C:\Users\Rober\OneDrive\Escritorio\TEC\IA\Reciclaje\Reciclaje\obj\Debug\Reciclaje.Diagnostico.resources

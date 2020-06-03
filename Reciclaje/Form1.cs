@@ -1,4 +1,4 @@
-﻿using Reciclaje.ParteProlog;
+﻿using SistemaExperto.ParteProlog;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

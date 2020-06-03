@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SbsSW.SwiPlCs;
 
-namespace Reciclaje.ParteProlog
+namespace SistemaExperto.ParteProlog
 {
     public static class PrologEngine
     {
